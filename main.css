@@ -1,0 +1,50 @@
+body {
+    background-color: #0C0B23;
+}
+
+.title {
+    text-align: center;
+    color: yellow;
+}
+
+.descr {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.green-text {
+    color: green;
+}
+
+.img-1 {
+    width: 600px;
+}
+
+.img-2 {
+    width: 400px;
+}
+
+div {
+    text-align: center;
+}
+
+table {
+    color: white;
+}
+
+table{
+    width: 100%;
+}
+
+td {
+    text-align: center;
+    height: 50px;
+}
+
+p {
+    text-transform: lowercase;
+    opacity: 0.5;
+    
+    color: white;
+}
